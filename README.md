@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div width=100% align="center">
+  <img  alt="Person coding gif" src="https://www.w3webschool.com/wp-content/uploads/2022/10/developer.gif" height="250" width="300" /> 
+ <div width="50%">
+
 <!--
 **SAYYIDALI2706/SAYYIDALI2706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
